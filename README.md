@@ -1,6 +1,6 @@
 # SheHacks5.0_team006
 # Trans-Crypt
-# Project built by Ctrl-Alt-Elite 2.0 as a part of SheHacksDTU 2022.
+# Project built by Ctrl-Alt-Elite 2.0 as a part of SheHacks5.0 2022.
 
 
 
